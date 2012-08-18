@@ -1,0 +1,15 @@
+body {
+	font: 15px/21px Verdana, Geneva, Arial, Helvetica, sans-serif;
+	width: 600px;
+	margin: 0 auto;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	display: inline;
+	margin-right: 20px;
+}
